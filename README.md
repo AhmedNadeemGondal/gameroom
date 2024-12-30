@@ -2,6 +2,10 @@
 
 This is a simple React Native app where users can view game reviews, check detailed information about each review, and add new game reviews.
 
+## Built with
+
+This app is built using **React Native**, a framework for building natively rendering mobile applications using JavaScript and React.
+
 ## Features
 
 - View and manage reviews
