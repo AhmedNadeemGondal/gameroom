@@ -5,13 +5,13 @@ This is a simple React Native app where users can view game reviews, check detai
 ## Screenshots
 
 1. **Homepage**  
-   ![Homepage](./screenshots/homepage.png)
+   ![Homepage](./screenshots/1-homepage.png)
 
 2. **Navigation Sidebar**  
-   ![Navigation Sidebar](./screenshots/navigation-sidebar.png)
+   ![Navigation Sidebar](./screenshots/2-navigation-sidebar.png)
 
 3. **About Screen**  
-   ![About Screen](./screenshots/about-screen.png)
+   ![About Screen](./screenshots/3-about-screen.png)
 
 4. **Review Details**  
-   ![Review Details](./screenshots/review-details.png)
+   ![Review Details](./screenshots/4-review-details.png)
