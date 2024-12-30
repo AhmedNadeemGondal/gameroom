@@ -2,6 +2,12 @@
 
 This is a simple React Native app where users can view game reviews, check detailed information about each review, and add new game reviews.
 
+## Features
+
+- View and manage reviews
+- Add new reviews
+- View review details
+
 ### 1. Homepage
 
 <img src="./screenshots/1-homepage.png" width="250" />
